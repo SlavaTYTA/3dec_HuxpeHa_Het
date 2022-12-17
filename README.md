@@ -30,7 +30,7 @@ Instructions on how to use them in your own application are linked below.
 
 
 
-'''mermaid 
+```mermaid 
 stateDiagram-v2
     129 --> 128:+1
     129 --> 65: *2
@@ -43,5 +43,5 @@ stateDiagram-v2
     64 --> 63:+1
     63 --> 62:+1
     64--> 32:*2
-'''
+```
 

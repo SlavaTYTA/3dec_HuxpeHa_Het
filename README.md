@@ -21,9 +21,9 @@ Instructions on how to use them in your own application are linked below.
 
 | задачи | ответы |
 | ------ | ------ |
-| 19 | 64 |
-| 20 | ответ:32,64 |
-| 21 | ответ:62 |
+| 19 | Ответ: 64 |
+| 20 | Ответ: 32,64 |
+| 21 | Ответ: 62 |
 
 
 

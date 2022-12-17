@@ -16,8 +16,7 @@ $$A\vee \left( A\wedge B \right)=A$$
 Видосик по инфе (и для проекта) - видос, который возможно понадобится
 
 
-Dillinger is currently extended with the following plugins.
-Instructions on how to use them in your own application are linked below.
+
 
 | задачи | ответы |
 | ------ | ------ |

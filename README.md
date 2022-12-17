@@ -27,3 +27,21 @@ Instructions on how to use them in your own application are linked below.
 | OneDrive | [plugins/onedrive/README.md][PlOd] |
 | Medium | [plugins/medium/README.md][PlMe] |
 | Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+
+
+
+'''mermaid 
+stateDiagram-v2
+    129 --> 128:+1
+    129 --> 65: *2
+    128 --> 127:+1
+    128 --> 64: *2
+    65 --> 64:+1
+    127 --> 126:+1
+    126 --> 125:+1
+    126 --> 63:*2
+    64 --> 63:+1
+    63 --> 62:+1
+    64--> 32:*2
+'''
+
